@@ -211,8 +211,8 @@ hr{
     nav a{
         text-decoration: none;
         color: black;
-        font-size: 1em;
-        margin-right: 9px;
+        font-size: .6em;
+        margin-right: 5px;
     }
     .left-side  img, .right-side img{
         width: 10%;
