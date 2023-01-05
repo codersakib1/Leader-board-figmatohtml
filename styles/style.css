@@ -217,6 +217,9 @@ hr{
     .left-side  img, .right-side img{
         width: 10%;
     }
+    .right-side img{
+        margin-right: 5px;
+    }
     nav{
         display: flex;
         justify-content:space-between;
